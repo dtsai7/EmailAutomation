@@ -1,6 +1,6 @@
 # EmailAutomation
 ## Steps
-1. Download attachment from Sent
+1. Downloading attachment from Sent
    - Summary Table
    - Raw Data
  
